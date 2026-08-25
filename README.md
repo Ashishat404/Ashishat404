@@ -4,7 +4,8 @@
 I am a software developer focused on building reliable, maintainable solutions and applying data-driven approaches to solve real-world problems. I enjoy working across the stack, contributing to open-source, and learning new tools and languages to improve engineering outcomes.
 
 ## Socials
-(Social links will be added later.)
+- LinkedIn: [Ashish Bhatt](https://www.linkedin.com/in/ashish-bhatt-448464282)
+- Portfolio: https://ashishat404.github.io/Portfolio-Website/
 
 ## Tech Stack
 Based on public repositories in this account, my primary technologies include:
@@ -18,7 +19,7 @@ If you'd like me to include frameworks or tooling detected from specific repos (
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark" alt="Ashishat404's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
