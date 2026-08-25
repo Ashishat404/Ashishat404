@@ -26,6 +26,11 @@ If you'd like me to include frameworks or tooling detected from specific repos (
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=dark" alt="GitHub streak" />
 </p>
 
+<!-- Daily contribution calendar (ghchart) -->
+<p align="left">
+  <img src="https://ghchart.rshah.org/Ashishat404" alt="GitHub contribution chart" />
+</p>
+
 ---
 
 If you'd like any wording changed, additional socials added, or a different badge theme, tell me and I will update the README.
