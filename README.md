@@ -1,4 +1,4 @@
-# Hi, I’m Ashishat 👋
+# Hi, I’m Ashish 👋
 
 ## About Me
 I am a software developer focused on building reliable, maintainable solutions and applying data-driven approaches to solve real-world problems. I enjoy working across the stack, contributing to open-source, and learning new tools and languages to improve engineering outcomes.
