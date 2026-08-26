@@ -18,10 +18,10 @@ If you'd like me to include frameworks or tooling detected from specific repos (
 
 ## GitHub Stats
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=dark" alt="Top languages" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=dark" alt="GitHub streak" />
