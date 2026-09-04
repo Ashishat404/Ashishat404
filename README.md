@@ -1,28 +1,39 @@
-# Hi there, I'm Ashish Bhatt 👋
+# Hi, I’m Ashish 👋
 
-I'm a B.Tech Computer Science and Engineering student passionate about full-stack development, open-source software, and breaking down complex tech concepts.
-
-## 🚀 About Me
-- 🔭 I’m currently building my MERN stack skills while exploring Data Science and Machine Learning.
-- 🤝 I actively contribute to open-source, including collaborating within the FOSSASIA community.
+## About Me
+I am a B.Tech Computer Science and Engineering student focused on building reliable, maintainable solutions and applying data-driven approaches to solve real-world problems. 
+- 🔭 I enjoy working across the stack and am currently building my skills in the MERN stack while exploring Data Science and Machine Learning.
+- 🤝 I actively contribute to open-source, tracking PRs and collaborating within communities like FOSSASIA.
 - 🎓 I'm balancing my engineering coursework with preparation for GATE CS 2027.
-- 🎥 Outside of writing code, I create short-form educational videos explaining technical concepts like binary logic, networking, and processor architectures.
+- 🎥 Outside of writing code, I create short-form educational videos and animations explaining technical concepts like binary logic, networking, and processor architectures.
 
-## 💻 Tech Stack
-- **Languages:** Python, JavaScript, C/C++
-- **Web Development:** React.js, Node.js, Express, HTML/CSS
-- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab
+## Socials
+- **LinkedIn:** [Ashish Bhatt](https://www.linkedin.com/in/ashish-bhatt-448464282)
+- **Portfolio:** [ashishat404.github.io/Portfolio-Website/](https://ashishat404.github.io/Portfolio-Website/)
+- **YouTube:** [Link to your channel](#) *(Update with your link)*
 
-## 📂 Featured Projects
-- **[Personal Portfolio](https://ashishat404.github.io/Portfolio-Website/):** A responsive portfolio website deployed via GitHub Pages to showcase my development journey.
+## Tech Stack
+- **Languages:** Python, JavaScript, Java, C++, HTML/CSS
+- **Web Frameworks:** React.js, Node.js, Express
+- **Data & Notebooks:** Jupyter, Google Colab
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+## Featured Projects
+- **[Personal Portfolio](https://ashishat404.github.io/Portfolio-Website/):** My responsive developer portfolio deployed via GitHub Pages.
 - **Local Code Search Engine:** A Python-based search tool configured for local environments and VS Code to efficiently index and query codebases.
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=transparent&hide_border=true" alt="Ashish's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=transparent&hide_border=true" alt="Ashish's GitHub Streak" />
-</div>
+## GitHub Stats
 
-## 📫 Connect with me
-- **LinkedIn:** [Ashish Bhatt](https://www.linkedin.com/in/ashish-bhatt-448464282)
-- **Portfolio:** [ashishat404.github.io/Portfolio-Website](https://ashishat404.github.io/Portfolio-Website/)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
+
+<!-- Daily contribution calendar -->
+<p align="left">
+  <img src="https://ghchart.rshah.org/Ashishat404" alt="GitHub contribution chart" />
+</p>
