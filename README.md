@@ -24,16 +24,10 @@ I am a B.Tech Computer Science and Engineering student focused on building relia
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark)](https://github.com/Ashishat404)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=dark)](https://github.com/Ashishat404)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=dark)](https://github.com/Ashishat404)
 
 <!-- Daily contribution calendar -->
-<p align="left">
-  <img src="https://ghchart.rshah.org/Ashishat404" alt="GitHub contribution chart" />
-</p>
+![GitHub contribution chart](https://ghchart.rshah.org/Ashishat404)
