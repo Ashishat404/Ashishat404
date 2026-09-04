@@ -1,37 +1,28 @@
-# Hi, I’m Ashish 👋
+# Hi there, I'm Ashish Bhatt 👋
 
-## About Me
-I am a software developer focused on building reliable, maintainable solutions and applying data-driven approaches to solve real-world problems. I enjoy working across the stack, contributing to open-source, and learning new tools and languages to improve engineering outcomes.
+I'm a B.Tech Computer Science and Engineering student passionate about full-stack development, open-source software, and breaking down complex tech concepts.
 
-## Socials
-- LinkedIn: [Ashish Bhatt](https://www.linkedin.com/in/ashish-bhatt-448464282)
-- Portfolio: https://ashishat404.github.io/Portfolio-Website/
+## 🚀 About Me
+- 🔭 I’m currently building my MERN stack skills while exploring Data Science and Machine Learning.
+- 🤝 I actively contribute to open-source, including collaborating within the FOSSASIA community.
+- 🎓 I'm balancing my engineering coursework with preparation for GATE CS 2027.
+- 🎥 Outside of writing code, I create short-form educational videos explaining technical concepts like binary logic, networking, and processor architectures.
 
-## Tech Stack
-Based on public repositories in this account, my primary technologies include:
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript, C/C++
+- **Web Development:** React.js, Node.js, Express, HTML/CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Google Colab
 
-- Languages: Python, HTML, Java, C++
-- Data & Notebooks: Jupyter (Data Science)
-- Tools: Git & GitHub
+## 📂 Featured Projects
+- **[Personal Portfolio](https://ashishat404.github.io/Portfolio-Website/):** A responsive portfolio website deployed via GitHub Pages to showcase my development journey.
+- **Local Code Search Engine:** A Python-based search tool configured for local environments and VS Code to efficiently index and query codebases.
 
-If you'd like me to include frameworks or tooling detected from specific repos (React, Node.js, Docker, etc.), tell me which ones to add and I can update the README.
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=transparent&hide_border=true" alt="Ashish's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=transparent&hide_border=true" alt="Ashish's GitHub Streak" />
+</div>
 
-## GitHub Stats
-
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=dark" alt="Top languages" />
-</p> -->
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashishat404&theme=dark" alt="GitHub streak" />
-</p>
-
-<!-- Daily contribution calendar (ghchart) -->
-<p align="left">
-  <img src="https://ghchart.rshah.org/Ashishat404" alt="GitHub contribution chart" />
-</p>
-
----
-
-If you'd like any wording changed, additional socials added, or a different badge theme, tell me and I will update the README.
+## 📫 Connect with me
+- **LinkedIn:** [Ashish Bhatt](https://www.linkedin.com/in/ashish-bhatt-448464282)
+- **Portfolio:** [ashishat404.github.io/Portfolio-Website](https://ashishat404.github.io/Portfolio-Website/)
