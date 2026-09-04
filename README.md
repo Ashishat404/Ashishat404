@@ -10,7 +10,7 @@ I am a B.Tech Computer Science and Engineering student focused on building relia
 ## Socials
 - **LinkedIn:** [Ashish Bhatt](https://www.linkedin.com/in/ashish-bhatt-448464282)
 - **Portfolio:** [ashishat404.github.io/Portfolio-Website/](https://ashishat404.github.io/Portfolio-Website/)
-- **YouTube:** [Link to your channel](#) *(Update with your link)*
+
 
 ## Tech Stack
 - **Languages:** Python, JavaScript, Java, C++, HTML/CSS
