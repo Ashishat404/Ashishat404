@@ -4,7 +4,6 @@
 ---
 🔭 I’m currently working on **building my MERN stack skills and exploring Data Science**
 👯 I’m looking to collaborate on **open-source projects and FOSSASIA contributions**
-🌱 I’m currently learning **advanced engineering concepts and preparing for GATE CS 2027**
 💬 Ask me about **full-stack development, Python, or my Local Code Search Engine project**
 ⚡ Fun fact: **I create short-form educational videos and animations explaining complex tech like binary logic!**
 
