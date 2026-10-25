@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ashish Bhatt
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
@@ -61,11 +61,9 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ashishat404&theme=radical&border_radius=10)](https://git.io/streak-stats)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashishat404&show_icons=true&theme=radical&border_radius=10)](https://github.com/Ashishat404)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=radical&border_radius=10)](https://github.com/Ashishat404)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishat404&layout=compact&theme=radical&border_radius=10)](https://github.com/Ashishat404)
 
 </div>
 
