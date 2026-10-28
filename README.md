@@ -10,7 +10,7 @@
 
 🔭 I'm currently working on **building my MERN stack skills and exploring Data Science**
 
-👯 I'm looking to collaborate on **open-source projects and FOSSASIA contributions**
+👯 I'm looking to collaborate on **open-source projects and contributions**
 
 💬 Ask me about **full-stack development, Python, or my Local Code Search Engine project**
 
